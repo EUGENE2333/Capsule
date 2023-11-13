@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">capsule</string>
+    <string name="question_australia">Q1.___and___ are collectively known as twin characteristics of growth.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than
+  the Atlantic Ocean.</string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea
+  and the Indian Ocean.</string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river
+  in the Americas.</string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
+  freshwater lake.</string>
+    <string name="notes">The growth of organisms, particularly in the context of twins, encompasses twin characteristics influenced by genetic and environmental factors. Twins, sharing a high degree of genetic similarity as they originate from the same fertilized egg, often exhibit resemblances in traits such as height, body structure, and disease susceptibility. Genetic factors play a significant role in determining these characteristics. However, despite genetic similarities, environmental influences play a crucial role in growth. Factors like nutrition, access to healthcare, and overall living conditions contribute to variations in growth even among identical twins. Epigenetic factors, involving changes in gene expression without altering the DNA sequence, add another layer to the complexity. Twins may experience differences in growth due to unique environmental experiences leading to distinct epigenetic modifications. Despite genetic and environmental commonalities, individual variation remains a key aspect influencing growth patterns, preferences, and health outcomes in both identical and non-identical twins. The study of twin characteristics in growth provides valuable insights into the interplay of genes, epigenetics, and the environment in shaping the development of living organisms.</string>
+    <string name="num_questions">Question 1/10</string>
+    <string name="check_answer">check answer</string>
+    <string name="timer">0:56 min</string>
+    <string name="tvTitleBlood">Blood</string>
+    <string name="tvNext">Quiz Test\nQuestions: 10</string>
+    <string name="up_next">Up Next:</string>
+    <string name="tvBtnNext">NCERT Lines \nRead from NCERT books</string>
+    <string name="notesHeader">Notes:</string>
+    <string name="question_progress">Question %1$d/%2$d</string>
+    <string name="score_message">Your Score: %1$d/%2$d</string>
+</resources>
